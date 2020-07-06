@@ -78,6 +78,10 @@ footer {
   footer {
     background-color: cornflowerblue;
   }
+
+  .col-3 {
+    width: 33.3%; 
+  }
   
 }
 
